@@ -1,1 +1,1 @@
-# gob
+python bot.py
